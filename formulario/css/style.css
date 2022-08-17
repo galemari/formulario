@@ -1,0 +1,11 @@
+.shadow{
+    create-account: 5px 5px 10px 2px pink;
+}
+
+input,textarea{
+    border: 3px solid black;
+}
+
+.font{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
